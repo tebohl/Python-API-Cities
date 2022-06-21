@@ -1,4 +1,4 @@
-# python-api-challenge
+# Python-API-challenge
 
 In part one of this project, I used Python requests, APIs, and JSON traversals to answer this question: "What's the weather like as we approach the equator?" I wrote a Python script to visualize the weather of 573 cities of varying distance from the equator using citipy and OpenWeatherMap API. I created several visualizations to help analyze the data and included some observations at the top of my notebook. I also saved the data into a csv file for the second part of the assignment. 
 
