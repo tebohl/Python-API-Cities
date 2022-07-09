@@ -7,4 +7,4 @@ There is also a folder with all of my output files from both parts and screensho
 
 ![heat](output_data/Heat_map_all_cities.jpg)
 
-![markers](output_data/Hotel_map_markers.jpg)
+![markers](output_data/hotel_map_markers.jpg)
